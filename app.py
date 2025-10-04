@@ -5,10 +5,9 @@ from gemini_utils import call_gemini
 from parser import extract_text
 from dotenv import load_dotenv
 import google.generativeai as genai
+# Loads the .env file
 
-load_dotenv()  # Loads the .env file
-
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=("GOOGLE_API_KEY"))
 
 def main():
     st.set_page_config(page_title="🧠 AI StudyMate", layout="wide")
