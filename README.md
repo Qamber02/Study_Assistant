@@ -6,10 +6,10 @@
 
 ## 🚀 Features
 
-- 📂 **PDF Parsing** – Extracts clean text and structure from PDF documents.  
-- ❓ **Interactive Q&A** – Ask questions about the PDF and get precise AI-powered answers.  
-- 📝 **Summarization** – Generate concise summaries to speed up your revision.  
-- ⚡ **Lightweight & Modular** – Easy to run and extend with minimal setup.  
+-  **PDF Parsing** – Extracts clean text and structure from PDF documents.  
+-  **Interactive Q&A** – Ask questions about the PDF and get precise AI-powered answers.  
+-  **Summarization** – Generate concise summaries to speed up your revision.  
+-  **Lightweight & Modular** – Easy to run and extend with minimal setup.  
 
 ---
 
