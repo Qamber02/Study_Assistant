@@ -1,4 +1,4 @@
-# 📘 Study Assistant
+# Study Assistant
 
 **Study Assistant** is an AI-powered tool designed to help students and professionals study smarter by extracting key information from PDFs, enabling interactive Q&A, and generating concise summaries.
 
