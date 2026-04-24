@@ -110,7 +110,7 @@ Study_Assistant/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are always welcome!  
 
