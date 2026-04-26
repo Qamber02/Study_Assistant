@@ -51,7 +51,7 @@
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ### Run via `app.py`
 ```bash
