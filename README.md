@@ -131,7 +131,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Qamber**  
 - GitHub: [Qamber02](https://github.com/Qamber02)    
