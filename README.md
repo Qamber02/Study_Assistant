@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Study_Assistant/
