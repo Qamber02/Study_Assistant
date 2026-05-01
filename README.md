@@ -58,7 +58,7 @@
 python app.py --pdf path/to/your/document.pdf
 ```
 
-👉 Once loaded, you can:  
+ Once loaded, you can:  
 - Ask questions about the document  
 - Generate summaries of the content  
 
